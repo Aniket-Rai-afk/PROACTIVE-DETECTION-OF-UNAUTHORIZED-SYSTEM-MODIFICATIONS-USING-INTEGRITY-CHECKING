@@ -1,5 +1,3 @@
-Here's a beautifully formatted and highly readable version of your README:
-
 ```markdown
 # 🔍 File Integrity Checker
 
