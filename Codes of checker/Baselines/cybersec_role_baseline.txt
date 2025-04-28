@@ -1,0 +1,4 @@
+3096224743871253 drwxr-xr-x 1 aniik 197609 0 Apr 23 09:19 /d/project final sem/checker file/cybersec role
+4785074604135212 -rw-r--r-- 1 aniik 197609 15538 Apr 23 11:45 /d/project final sem/checker file/cybersec role/Aniket Rai_cover letter.docx
+3096224743871255 -rw-r--r-- 1 aniik 197609 33897 Apr 11 01:20 /d/project final sem/checker file/cybersec role/Aniket_resume.docx
+3096224743871256 -rw-r--r-- 1 aniik 197609 160094 Apr 11 11:34 /d/project final sem/checker file/cybersec role/Aniket_resume.pdf
