@@ -1,0 +1,29 @@
+# File Integrity Checker
+
+![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash)
+![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20WSL-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+A Bash-based tool that monitors file system integrity by comparing current states against recorded baselines, detecting unauthorized modifications, accidental changes, and potential security breaches through comprehensive tracking of:
+
+- File permissions changes
+- Ownership modifications
+- Size alterations
+- Timestamp updates
+- Other critical file attributes
+
+## Key Features
+🔍 **Baseline Snapshots** - Record directory structures and file metadata  
+🛡️ **Change Detection** - Identify modifications against baselines  
+📊 **Priority-Based Reporting** - Categorize changes by severity  
+⚡ **Lightweight** - Pure Bash implementation with no dependencies  
+🔧 **Flexible** - Works on Linux, macOS, and Windows (via WSL/Cygwin)  
+
+## Table of Contents
+- [Installation](#installation)
+- [Quick Start](#quick-start)
+- [Usage Examples](#usage-examples)
+- [Report Interpretation](#report-interpretation)
+- [Technical Architecture](#technical-architecture)
+- [Contributing](#contributing)
+- [License](#license)
