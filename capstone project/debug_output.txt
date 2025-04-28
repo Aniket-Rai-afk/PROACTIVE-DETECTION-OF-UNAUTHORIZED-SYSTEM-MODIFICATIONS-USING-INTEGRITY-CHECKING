@@ -1,0 +1,16 @@
+++ date
++ echo 'Check started at Wed Apr 23 10:52:32 IST 2025'
+++ echo cybersec_role
+++ sed 's/"//g'
++ change_check cybersec_role
++ echo 'Received parameter: '\''cybersec_role'\'''
++ BASELINE_FILE=./Baselines/cybersec_role_baseline.txt
++ echo 'Looking for baseline: ./Baselines/cybersec_role_baseline.txt'
++ '[' '!' -f ./Baselines/cybersec_role_baseline.txt ']'
+++ head -1 ./Baselines/cybersec_role_baseline.txt
+++ awk '{print $NF}'
++ TARGET_DIR=role
++ echo 'Target directory: role'
++ '[' -d role ']'
++ echo 'Error: Directory role not found!'
++ return 1
