@@ -17,15 +17,17 @@ A lightweight security tool that monitors file system changes by comparing curre
 | **🌐 Cross-Platform** | Works everywhere Bash runs |
 
 ---
+```
 
-## 🚀 Quick Start
-
+##🚀 Quick Start
 ### 1. Installation
 ```bash
 git clone https://github.com/yourusername/file-integrity-checker.git
 cd file-integrity-checker
 chmod +x *.sh
 ```
+
+
 
 ### 2. First Run
 ```bash
