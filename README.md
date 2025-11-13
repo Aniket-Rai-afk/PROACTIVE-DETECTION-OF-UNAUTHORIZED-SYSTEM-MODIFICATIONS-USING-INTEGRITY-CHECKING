@@ -118,7 +118,7 @@ We welcome contributions! Please:
 ---
 
 ## 📜 License
-
-MIT © 2025 Aniket rai
+```
+© 2025 Aniket rai
 ```
 
